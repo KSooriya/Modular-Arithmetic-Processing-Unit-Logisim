@@ -1,4 +1,4 @@
-# 🧮 Modular Arithmetic Processing Unit (MPU) — Logisim Evolution
+# 🧮 Modular Arithmetic Processing Unit (MPU) — Logisim
 
 This project was developed as part of my **Embedded Systems coursework**, focusing on the design and simulation of a **modular Arithmetic Processing Unit** using **Logisim Evolution**.  
 The system models the core functionality of a simple CPU, integrating multiple arithmetic and control submodules in a hierarchical structure.
